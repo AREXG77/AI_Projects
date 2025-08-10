@@ -1,2 +1,3 @@
 # AI_Projects
-My AI projects for the Game AI course
+
+The Rule Based AI requires unreal engine 5(ver 5.4) to run
